@@ -1,4 +1,4 @@
-package com.playdice.demo;
+package com.playdice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
